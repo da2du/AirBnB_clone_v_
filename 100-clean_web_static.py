@@ -3,8 +3,7 @@
 import os
 from fabric.api import *
  
-
-env.hosts = ["34.204.187.226", "3.237.41.32"]
+env.hosts = ["44.200.103.184", "35.175.133.144"]
 
 
 
