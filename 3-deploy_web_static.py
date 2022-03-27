@@ -7,8 +7,7 @@ from fabric.api import local
 from fabric.api import put
 from fabric.api import run
 
-env.hosts = ["3.237.41.32", "34.204.187.226"]
-
+env.hosts = ["44.200.103.184", "35.175.133.144"]
 
 def do_pack():
     """Create a tar gzipped archive of the directory web_static."""
